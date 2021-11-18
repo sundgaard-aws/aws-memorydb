@@ -1,0 +1,12 @@
+{
+    "repository": {
+        "directory": "",
+        "type": "",
+        "url": ""
+    },
+    "description": "redis-simple-demo",
+    "license": "MIT",
+    "dependencies": {
+        "redis": "^3.1.2"
+    }
+}
